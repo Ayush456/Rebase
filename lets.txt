@@ -7,4 +7,8 @@ lets try git! Lets Start!!!
 hello!!!
 
 FL
+<<<<<<< HEAD
 new line 
+=======
+SL
+>>>>>>> master
